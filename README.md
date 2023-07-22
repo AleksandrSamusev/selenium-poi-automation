@@ -8,7 +8,7 @@ The appearance of the calculator is shown in the picture:
 <picture>
  <source media="(prefers-color-scheme: dark)" srcset="YOUR-DARKMODE-IMAGE">
  <source media="(prefers-color-scheme: light)" srcset="YOUR-LIGHTMODE-IMAGE">
- <img alt="calc-image" src="src/test/resources/1.png">
+ <img alt="calc-image" src="https://github.com/AleksandrSamusev/selenium-poi-automation/blob/main/src/test/resources/1.png?raw=true">
 </picture>
 
 
